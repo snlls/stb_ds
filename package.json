@@ -1,7 +1,7 @@
 {
-  "name": "stb_ds",
-  "version": "0.0.1",
-  "repo": "snlls/stb_ds",
-  "license": "",
-  "src": ["stb_ds.h"]
+    "name": "stb_ds",
+    "version": "0.0.1",
+    "repo": "snlls/stb_ds",
+    "license": "",
+    "src": ["stb_ds.h", "Makefile"]
 }
