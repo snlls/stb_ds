@@ -3,5 +3,5 @@
     "version": "0.0.1",
     "repo": "snlls/stb_ds",
     "license": "",
-    "src": ["stb_ds.h", "Makefile"]
+    "src": ["stb_ds.h", "stb_ds.c", "Makefile"]
 }
